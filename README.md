@@ -31,10 +31,6 @@ practiceAPI/
 │   │   └── js/           # JavaScript модули
 │   └── pages/            # HTML страницы
 │
-├── docs/                  # Документация
-│   ├── README.md         # Основная документация
-│   └── TECHNICAL.md      # Техническая документация
-│
 ├── .gitignore            # Игнорируемые Git файлы
 ├── requirements.txt      # Основные зависимости проекта
 └── .venv/               # Виртуальное окружение Python
